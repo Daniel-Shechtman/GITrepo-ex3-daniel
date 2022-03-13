@@ -2,7 +2,7 @@ public class Daniel_Shechtman
 {
     public static void main(String[] args) {
         for(int i = 0 ;i<5;i++){
-            System.out.println("third update "+(i+1));
+            System.out.println("last update "+(i+1));
         }
 
     }
